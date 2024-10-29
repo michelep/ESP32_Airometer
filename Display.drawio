@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.1">
+  <diagram name="Pagina-1" id="KQTnFt9AANdBMXSJErl6">
+    <mxGraphModel dx="819" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="128" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-2" value="STATO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;strokeColor=#82b366;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-3" value="TEMP" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#CD5C08;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-4" value="HUM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="190" width="64" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-5" value="VOC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-6" value="CO2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="240" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-7" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-8" value="BT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-9" value="TIME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KPM9mMP-yl0NzQdy6peB-11" value="PRESSURE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C1D8C3;fillStyle=solid;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="128" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
